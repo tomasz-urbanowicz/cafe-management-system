@@ -1,4 +1,4 @@
-package com.example.cafe;
+package pl.urbanowicz.cafe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
